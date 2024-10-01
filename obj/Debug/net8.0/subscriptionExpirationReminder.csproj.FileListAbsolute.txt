@@ -1,0 +1,15 @@
+/home/elly/Desktop/CsharpProjects/Projects/subscriptionExpirationReminder/bin/Debug/net8.0/subscriptionExpirationReminder
+/home/elly/Desktop/CsharpProjects/Projects/subscriptionExpirationReminder/bin/Debug/net8.0/subscriptionExpirationReminder.deps.json
+/home/elly/Desktop/CsharpProjects/Projects/subscriptionExpirationReminder/bin/Debug/net8.0/subscriptionExpirationReminder.runtimeconfig.json
+/home/elly/Desktop/CsharpProjects/Projects/subscriptionExpirationReminder/bin/Debug/net8.0/subscriptionExpirationReminder.dll
+/home/elly/Desktop/CsharpProjects/Projects/subscriptionExpirationReminder/bin/Debug/net8.0/subscriptionExpirationReminder.pdb
+/home/elly/Desktop/CsharpProjects/Projects/subscriptionExpirationReminder/obj/Debug/net8.0/subscriptionExpirationReminder.GeneratedMSBuildEditorConfig.editorconfig
+/home/elly/Desktop/CsharpProjects/Projects/subscriptionExpirationReminder/obj/Debug/net8.0/subscriptionExpirationReminder.AssemblyInfoInputs.cache
+/home/elly/Desktop/CsharpProjects/Projects/subscriptionExpirationReminder/obj/Debug/net8.0/subscriptionExpirationReminder.AssemblyInfo.cs
+/home/elly/Desktop/CsharpProjects/Projects/subscriptionExpirationReminder/obj/Debug/net8.0/subscriptionExpirationReminder.csproj.CoreCompileInputs.cache
+/home/elly/Desktop/CsharpProjects/Projects/subscriptionExpirationReminder/obj/Debug/net8.0/subscriptionExpirationReminder.dll
+/home/elly/Desktop/CsharpProjects/Projects/subscriptionExpirationReminder/obj/Debug/net8.0/refint/subscriptionExpirationReminder.dll
+/home/elly/Desktop/CsharpProjects/Projects/subscriptionExpirationReminder/obj/Debug/net8.0/subscriptionExpirationReminder.pdb
+/home/elly/Desktop/CsharpProjects/Projects/subscriptionExpirationReminder/obj/Debug/net8.0/subscriptionExpirationReminder.genruntimeconfig.cache
+/home/elly/Desktop/CsharpProjects/Projects/subscriptionExpirationReminder/obj/Debug/net8.0/ref/subscriptionExpirationReminder.dll
+/home/elly/Desktop/CsharpProjects/Projects/subscriptionExpirationReminder/obj/Debug/net8.0/subscriptionExpirationReminder.sourcelink.json
